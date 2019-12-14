@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Vojtěch Kačmařík, Personal Blog, Launches Site"
 date: 2019-12-11
 ---
 
